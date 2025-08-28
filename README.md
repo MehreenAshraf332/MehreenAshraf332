@@ -1,16 +1,20 @@
 ## Hi there 👋
+My name is Mehreen Ashraf. I am currently learning Bioinformatics fundamentals with a focus on Translational Bioinformatics, metagenomics, multi-omics integration and a bit of AI and programming. 
 
-<!--
-**MehreenAshraf332/MehreenAshraf332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recent Projects
+"RNA Seq Analysis in Health and Disease"
 
-Here are some ideas to get you started:
+"Microbiome-Based Biomarker discovery and phenotypic association using Kaiju
+and Maaslin2”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Multi-omics Analysis via N-INTEGRATION using Diablo for Discriminating Breast Cancer Subtypes"
+
+"Analyzing data through Excel and Minitab using Obesity prediction dataset"
+
+"Downloading sequencing data from NCBI SRA Database"
+
+## Skills
+Programming & Data Analysis: (R; tidyverse, ggplot2, Maaslin2) 
+/ (Minitab, statistical modeling)
+/ (KBase, kaiju)
+
